@@ -13,7 +13,7 @@ Just paste this code into your `README`:
 
 
 
-
+View other uses at [axolotl.wiki/post/dog-api](https://axolotl.wiki/post/dog-api)
 
 
 ---
